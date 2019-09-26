@@ -1,1 +1,1 @@
-# This project has been renamed [CQtDeployer](https://github.com/QuasarApp/CQtDeployer)
+# This project has been renamed into [CQtDeployer](https://github.com/QuasarApp/CQtDeployer)
