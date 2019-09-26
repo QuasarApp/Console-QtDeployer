@@ -1,1 +1,1 @@
-# Console-QtDeployer2
+# This project has been renamed CQtDeployer
